@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/simotae14/Node-Planet-Project/issues"
   },
-  "homepage": "https://github.com/simotae14/Node-Planet-Project#readme"
+  "homepage": "https://github.com/simotae14/Node-Planet-Project#readme",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
 }
